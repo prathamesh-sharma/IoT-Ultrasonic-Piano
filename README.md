@@ -4,3 +4,5 @@ coded in Python which plays the musical octaves by detecting hand gestures, espe
 
 
 [![](https://img.youtube.com/vi/JGtyuPudK5s/0.jpg)](https://youtu.be/JGtyuPudK5s)
+
+##Demo of the project!
